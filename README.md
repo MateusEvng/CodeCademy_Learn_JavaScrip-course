@@ -1,4 +1,4 @@
-# CodeCademy_Learn_JavaScrip(course)
+# CodeCademy | Learn JavaScrip
  Welcome to the Learn JavaScript course! This repository contains my projects completed during the course.
 
 ## Syllabus
