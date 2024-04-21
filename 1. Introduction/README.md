@@ -4,7 +4,7 @@ This section covers the fundamentals of JavaScript, including data types, variab
 
 - **Lesson:** Introduction to JavaScript
 - **Lesson:** Variables
-- **Project:** [Kelvin Weather]([link_to_kelvin_weather_project](https://github.com/MateusEvng/CodeCademy_Learn_JavaScrip-course/blob/course/1.%20Introduction/KelvinWeather.js))
+- **Project:** [Kelvin Weather](https://github.com/MateusEvng/CodeCademy_Learn_JavaScrip-course/blob/course/1.%20Introduction/KelvinWeather.js)
 - **Project:** [Dog Years]([link_to_dog_years_project](https://github.com/MateusEvng/CodeCademy_Learn_JavaScrip-course/blob/course/1.%20Introduction/DogYears.js))
 - **Quiz:** Introduction to JavaScript
 - **Article:** JavaScript Versions: ES6 and Before
