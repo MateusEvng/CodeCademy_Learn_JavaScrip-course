@@ -1,4 +1,4 @@
-# CodeCademy | Learn JavaScrip
+# Codecademy | Learn JavaScrip
 
 ## Introduction
 
