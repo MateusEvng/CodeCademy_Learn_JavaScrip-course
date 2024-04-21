@@ -1,4 +1,6 @@
-# Introduction
+# CodeCademy | Learn JavaScrip
+
+## Introduction
 
 This section covers the fundamentals of JavaScript, including data types, variables, and basic syntax.
 
