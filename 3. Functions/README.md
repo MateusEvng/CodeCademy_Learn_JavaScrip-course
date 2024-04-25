@@ -6,5 +6,5 @@ This section covers JavaScript function syntax, passing data to functions, the r
 
 - **Lesson:** Functions
 - **Project:** [Rock, Paper, or Scissors](https://github.com/MateusEvng/CodeCademy_Learn_JavaScrip-course/blob/course/3.%20Functions/rockPaperScissors.js)
-- **Project:** [Sleep Debt Calculator](link_to_sleep_debt_calculator_project)
+- **Project:** [Sleep Debt Calculator](https://github.com/MateusEvng/Codecademy_Learn_JavaScrip-course/blob/course/3.%20Functions/sleepDebtCalculator.js)
 - **Quiz:** Functions
